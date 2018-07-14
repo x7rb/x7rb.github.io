@@ -11,6 +11,7 @@ Section: Twaeks
 Description: Crack Watusi for Whatsapp
 Author: x7rb <x7rb@mohmal.com>
 Name: WatusiCrack
+
 Package: com.x7rb.cydown
 Version: 6.9.5
 Architecture: iphoneos-arm
