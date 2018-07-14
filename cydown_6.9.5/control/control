@@ -1,0 +1,12 @@
+Package: com.yourepo.kiiimo.cydown11
+Name: CyDown (iOS 11)
+Version: 6.9.5
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Depiction: http://cydia.kiiimo.org/pack/cydown11
+Author: julioverne
+Section: iOS 11.3x
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.kiiimo.cydown, net.cydia00.cydown, com.julioverne.cydown, ilonveapple.cydojwn, com.repo.xarold.com.cydown, repo.biteyourapple.net.cydown, com.yourepo.mohadu31.cydown, com.arab-cydia.cydown, com.yourepo.mrfredtouhey.cydown, aptcn.cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+
