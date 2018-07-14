@@ -1,0 +1,10 @@
+Package: com.yourepo.kiiimo.watusicrack
+Name: WatusiCrack
+Version: 2.6
+Architecture: iphoneos-arm
+Description: ازالة الاعلانات من اداة Watusi , stalky !
+Depiction: http://cydia.kiiimo.org/pack/watusicrack
+Author: ولد السعد
+Section: iOS 11.3x
+Depends: mobilesubstrate
+
